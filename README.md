@@ -31,15 +31,6 @@ It does **not** include search functionality and is intended purely as a **UI an
 
 ---
 
-## 📁 Project Structure
-google-homepage-clone/
-│
-├── index.html
-├── styles.css
-└── README.md
-
----
-
 ## 🧩 Implementation Details
 
 - Page elements are centered using `margin: auto`
