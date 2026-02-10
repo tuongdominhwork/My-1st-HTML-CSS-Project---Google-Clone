@@ -66,7 +66,7 @@ Google and the Google logo are trademarks of Google LLC.
 
 ## 👤 Author
 
-**Nguyen Do**  
+**Tuong Do Minh**  
 Front-End Beginner | HTML & CSS
 
 ---
